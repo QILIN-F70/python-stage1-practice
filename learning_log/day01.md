@@ -15,3 +15,15 @@
 ## 我现在能独立完成什么
 
 可以输出内容，学习print输出
+
+## 我还不会什么
+
+目前对git commit和git push的区别还不够熟悉，也需要继续熟悉终端路径。
+
+## 明天需要复习什么
+
+复习如何运行Python文件，以及commit和push分别负责什么。
+
+git commit：在本地创建代码版本快照。
+
+git push：把本地commit上传到GitHub。

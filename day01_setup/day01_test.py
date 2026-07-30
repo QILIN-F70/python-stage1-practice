@@ -1,0 +1,7 @@
+print("-" * 30)
+print("称呼： ql")
+print("专业： 计科")
+print("毕业年份： 2028年")
+print("岗位： AIxx")
+print("阶段一目标：重建基础")
+print("-" * 30)

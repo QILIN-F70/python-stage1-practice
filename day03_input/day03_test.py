@@ -1,0 +1,17 @@
+print("=" * 30)
+print("交互式商品金额计算器")
+print("-" * 30)
+name = input("请输入商品名称：")
+price = float(input("请输入商品单价："))
+quantity = int(input("请输入购买数量："))
+total = price * quantity
+print("-" * 30)
+print(f"{name}的单价是：{price}，购买数量为：{quantity}")
+print("-" * 30)
+print(f"总价为：{total:.2f}")
+print("-" * 30)
+print(type(name))
+print(type(price))
+print(type(quantity))
+
+print("=" * 30)

@@ -20,6 +20,7 @@
 - [x] Day 7：第零周考试
 - [x] Day 8：while循环基础
 - [x] Day 9：for循环和range
+- [x] Day 10：列表基础
 
 ## 后续项目
 

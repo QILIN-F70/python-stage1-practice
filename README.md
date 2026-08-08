@@ -19,6 +19,7 @@
 - [x] Day 6：综合练习和需求分析
 - [x] Day 7：第零周考试
 - [x] Day 8：while循环基础
+- [x] Day 9：for循环和range
 
 ## 后续项目
 

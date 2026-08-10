@@ -21,6 +21,7 @@
 - [x] Day 8：while循环基础
 - [x] Day 9：for循环和range
 - [x] Day 10：列表基础
+- [x] Day 11：列表增删与成员判断
 
 ## 后续项目
 

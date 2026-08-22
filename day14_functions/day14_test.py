@@ -17,7 +17,7 @@ points = calculate_score(study_hours,practice_count)
 def evaluate_status(score):
     if score >= 15:
         print("优秀")
-        status == "优秀"
+        status = "优秀"
     elif score >= 8:
         print("达标")
         status = "达标"
